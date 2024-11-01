@@ -7,6 +7,6 @@
     "start": "node api/login.js"
   },
   "dependencies": {
-    "@vercel/functions": "^1.5.0"
+    "node-fetch": "^3.3.2"
   }
 }
